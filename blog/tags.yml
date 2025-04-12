@@ -1,0 +1,9 @@
+news:
+  label: News
+  permalink: /news
+  description: General News
+
+updates:
+  label: Updates
+  permalink: /updates
+  description: Updates for my Assets
