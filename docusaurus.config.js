@@ -69,7 +69,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DrBlackRat\'s VRC Docs',
+        title: 'DrBlackRat\'s VRC Asset Docs',
         logo: {
           alt: 'DrBlackRat\s Logo',
           src: 'img/logo.png',
