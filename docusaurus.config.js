@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DrBlackRat\'s VRC Docs',
+  title: 'DrBlackRat\'s VRC Asset Docs',
   tagline: 'Documentation for DrBlackRat\'s VRChat Assets',
   favicon: 'img/favicon.ico',
 
@@ -18,12 +18,13 @@ const config = {
   url: 'https://drblackrat.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/DrBlackRat-VRC-Docs/',
+  baseUrl: '/VRC-Asset-Docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'DrBlackRat', // Usually your GitHub org/user name.
-  projectName: 'DrBlackRat-VRC-Docs', // Usually your repo name.
+  projectName: 'VRC-Asset-Docs', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
