@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://drblackrat.github.io/DrBlackRat-VRC-Docs/blog</id>
-    <title>DrBlackRat's VRC Docs Blog</title>
+    <id>https://drblackrat.github.io/VRC-Asset-Docs/blog</id>
+    <title>DrBlackRat's VRC Asset Docs Blog</title>
     <updated>2025-04-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://drblackrat.github.io/DrBlackRat-VRC-Docs/blog"/>
-    <subtitle>DrBlackRat's VRC Docs Blog</subtitle>
-    <icon>https://drblackrat.github.io/DrBlackRat-VRC-Docs/img/favicon.ico</icon>
+    <link rel="alternate" href="https://drblackrat.github.io/VRC-Asset-Docs/blog"/>
+    <subtitle>DrBlackRat's VRC Asset Docs Blog</subtitle>
+    <icon>https://drblackrat.github.io/VRC-Asset-Docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
-        <id>https://drblackrat.github.io/DrBlackRat-VRC-Docs/blog/test</id>
-        <link href="https://drblackrat.github.io/DrBlackRat-VRC-Docs/blog/test"/>
+        <id>https://drblackrat.github.io/VRC-Asset-Docs/blog/test</id>
+        <link href="https://drblackrat.github.io/VRC-Asset-Docs/blog/test"/>
         <updated>2025-04-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></summary>
         <content type="html"><![CDATA[<p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p>

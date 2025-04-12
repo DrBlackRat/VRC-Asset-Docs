@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[223],{884:e=>{e.exports=JSON.parse('{"tags":[{"label":"News","permalink":"/VRC-Asset-Docs/blog/tags/news","description":"General News","count":1}]}')}}]);
