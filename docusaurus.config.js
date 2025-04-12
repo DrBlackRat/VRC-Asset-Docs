@@ -67,7 +67,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/docs-thumbnail.png',
       navbar: {
         title: 'DrBlackRat\'s VRC Asset Docs',
         logo: {
@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'modern_ui',
             position: 'left',
-            label: 'Modern UI',
+            label: 'Modern UIs',
           },
           {
             href: 'https://github.com/DrBlackRat',

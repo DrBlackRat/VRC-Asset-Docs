@@ -28,7 +28,7 @@ function HomepageHeader() {
             <Link
               className="button button--secondary button--lg"
               to="/docs/modern-ui/getting-started/">
-              Modern UI Docs
+              Modern UIs Docs
             </Link>
           </div>
 
@@ -42,8 +42,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Welcome to ${siteConfig.title}`}
+      description="Documentation for all of my VRChat Assets!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
