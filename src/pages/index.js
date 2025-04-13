@@ -27,7 +27,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/modern-ui/getting-started/">
+              to="/docs/modern-ui/about/">
               Modern UIs Docs
             </Link>
           </div>
