@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DrBlackRat\'s VRC Asset Docs',
+  title: 'DrBlackRat\'s VRC Assets Docs',
   tagline: 'Documentation for DrBlackRat\'s VRChat Assets',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://vrc-docs.drblackrat.xyz',
+  url: 'https://docs.drblackrat.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'DrBlackRat', // Usually your GitHub org/user name.
-  projectName: 'VRC-Asset-Docs', // Usually your repo name.
+  projectName: 'VRC-Assets-Docs', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -69,7 +69,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docs-thumbnail.png',
       navbar: {
-        title: 'DrBlackRat\'s VRC Asset Docs',
+        title: 'DrBlackRat\'s VRC Assets Docs',
         logo: {
           alt: 'DrBlackRat\s Logo',
           src: 'img/logo.png',
@@ -117,6 +117,15 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/DrBlackRat',
+              },
+            ],
+          },
+          {
+            title: 'Contact',
+            items: [
+              {
+                label: 'Email',
+                href: 'mailto:contact@drblackrat.xyz',
               },
             ],
           },
